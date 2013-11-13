@@ -1,0 +1,1 @@
+{"id":"1a8c614f-5e0d-40e1-a679-d550e22cd81a","js":[{"path":"phonegap.js","remote":true},{"path":"app.js","update":"delta"},{"path":"http://www.parsecdn.com/js/parse-1.2.12.min.js","remote":true}],"css":[{"path":"theme/cupertino-03220aa0-da24-4226-8fff-f327c4f3d592.css","update":"delta","theme":"Cupertino","platform":["phone","tablet","desktop"]}]}
